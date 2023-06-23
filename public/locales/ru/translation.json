@@ -1,0 +1,160 @@
+{
+  "navbar": {
+    "map": "Адрес",
+    "query": "Задавайте Вопросы!",
+    "call": "Свяжитесь с нами:",
+    "inp": "Ищите здесь..."
+  },
+  "nav_text": {
+    "1": "Основное",
+    "2": "О нас",
+    "3": "Продукты",
+    "4": "Новости",
+    "5": "Карьера",
+    "6": "Партнерство",
+    "7": "Предложения",
+    "8": "Работы"
+  },
+  "dropDown":{
+    "1": "Команда",
+    "2": "Партнеры",
+    "3": "Rizon"
+  },
+  "dropDownNews":{
+    "1": "Научные контенты",
+    "2": "Полезные контенты"
+  },
+  "partners_nav":{
+    "1": "Ценности",
+    "2": "Подавать заявление"
+  },
+  "btn": "Подробнее",
+  "home": {
+    "1": "Продукты",
+    "2": "Для приобретения продукта дороже 100000uzs, доставка бесплатна!",
+    "3": "Новости",
+    "4": "Новости Фармацевта",
+    "5": "ALKIMYOGAR FARM – первая и наиболее успешная компания в регионе, производящая широкий спектр коллоидных минералов и растительных гидролатов для потребления на основе сотрудничества с малайзийскими и канадскими компаниями, эффективно использующая нанотехнологии. С помощью современного оборудования и технологий, имеющихся в нашей компании, совместно с квалифицированными специалистами возможно производить продукцию высокого качества.",
+    "6": "Продукты",
+    "7": "Для всех",
+    "8": "Высокий рейтинг",
+    "btn": "Все",
+    "9": "Новые составы",
+    "10": "Отзывы клиентов",
+    "11": "Партнеры",
+    "11_1":"Научные партнеры",
+    "11_2":"Кто выбрал нас",
+    "12": "Предложения"
+  },
+  "footer": {
+    "1": "Основное",
+    "2": "О нас",
+    "3": "Продукты",
+    "4": "Купить",
+    "5": "Предложения",
+    "6": "Карьера",
+    "7": "Карта",
+    "8": "Политика Конфиденциальности",
+    "9": "Помощь",
+    "10": "Часто задаваемые вопросы?",
+    "11": "Условия пользования",
+    "12": "Купить",
+    "13": "Предложения",
+    "14": "Карьера",
+    "15": "Социальные сети",
+    "16": "Центр связи",
+    "17": "Все права защищены"
+  },
+  "about": {
+    "1": "Делимся здоровьем с людьми!",
+    "2": "Это первая и наиболее успешная компания в регионе, производящая широкий спектр коллоидных минералов и растительных гидролатов для потребления на основе сотрудничества с малайзийскими и канадскими компаниями, эффективно используя нанотехнологии. С помощью современного оборудования и технологий, имеющихся в нашей компании, совместно с квалифицированными специалистами возможно производить продукцию высокого качества.",
+    "3": "Алхимик ",
+    "d": "Думает в пользу клиента",
+    "4": "Компания lkimyogar Farm занимается производством высококачественных коллоидных минералов и лечебных экстрактов из лекарственных растений на основе канадских нанотехнологий. Экстракты гидролатные, и это первая компания в странах MDX, выпускающая их для потребления! Компания была основана в 2019 году, и за это короткое время имеет более 20 наименований продукции и более 5000 довольных клиентов. Компания стремится внести свой вклад в здоровье нации, производя качественную, натуральную и доступную продукцию.",
+    "5": "Зарубежные и отечественные научные",
+    "6": "сотрудничество с исследовательскими центрами!",
+    "7": "Постоянно доволен",
+    "8": "потребители!",
+    "9": "ассортимент товаров для здоровья",
+    "10": "Партнеры",
+    "11": "Наши отношения с Канадой",
+    "12": "Компания lkimyogar Farm занимается производством высококачественных коллоидных минералов и лечебных экстрактов из лекарственных растений на основе канадских нанотехнологий. Экстракты гидролатные, и это первая компания в странах MDX, выпускающая их для потребления! Компания была основана в 2019 году, и за это короткое время имеет более 20 наименований продукции и более 5000 довольных клиентов. Компания стремится внести свой вклад в здоровье нации, производя качественную, натуральную и доступную продукцию.",
+    "13": "Познакомьтесь с нашей командой!"
+  },
+  "product": {
+    "1": "Иммунитет",
+    "2": "Мужчины",
+    "3": "Женщины",
+    "4": "Дети",
+    "5": "Инвалиды",
+    "6": "Моменты из приготовления продукта"
+  },
+  "new": {
+    "1": "Победы",
+    "2": "Новости",
+    "3": "Следите за нами в социальных сетях!"
+  },
+  "carer": {
+    "1": "Станьте членом команды Алхимика! ",
+    "2": "Оставить заявление",
+    "3": "Наши ценности!",
+    "4": "Работайте с профессионалами!",
+    "5": "Lorem ipsum dolor sit amet consectetur. In posuere morbi enim lectus nulla amet. Vitae urna egestas porttitor ullamcorper neque nunc rhoncus potenti vulputate. Penatibus interdum condimentum pellentesque amet arcu lobortis. Amet nisl arcu malesuada lacus tempus tellus nam nunc at. Posuere feugiat pellentesque viverra pulvinar lectus. Egestas ante tellus quis elit sed. Proin risus mi bibendum imperdiet nisl sodales ultrices. Ullamcorper diam vel nisl feugiat pretium quis mattis dolor ac.",
+    "6": "Отправьте нам заявку!",
+    "7": "Вакансии",
+    "8": "Имя и Фамилия",
+    "9": "Адрес",
+    "10": "Дата Рождения",
+    "11": "Телефон номер",
+    "12": "Информация",
+    "13": "Зарплата",
+    "14": "Фотография",
+    "15": "Отправить",
+    "16": " Количество"
+  },
+  "tanlov":{
+    "1":"Наша миссия",
+    "2":"Компания ALKIMYOGAR FARM производит продукцию для укрепления здорового образа жизни с первого дня своего основания. Наша миссия — создавать продукты, которые помогают людям вести здоровый образ жизни и делиться своим здоровьем.",
+    "3":"Качество превыше всего",
+    "4":" Мы производители качественной продукции, полностью соответствующей мировым стандартам. У нас образованный, высококвалифицированный коллектив, современные, хорошо оборудованные здания и условия, отвечающие всем требованиям нормативных актов и законодательства Республики Узбекистан. Каждый продукт прошел всестороннее практическое тестирование. Начиная с упаковки продукта, каждый элемент создается с оригинальностью и превосходством качества.",
+    "5":"Современность",
+    "6":"Современные технические возможности нашей лаборатории нанотехнологий, метода гидролатации позволяют производить продукцию, соответствующую всем мировым стандартам. Профессионализм наших высококвалифицированных сотрудников является гарантией качества выпускаемой медицинской продукции.",
+    "7":"Надежность",
+    "8":"Это один из основных принципов, заложенных в философии нашей компании. Мы высоко ценим доверие наших клиентов, ценим их время, не ставим перед собой недостижимых целей и поддерживаем свою репутацию на высоком уровне. Именно поэтому работать с нами всегда надежно."
+  },
+  "partner": {
+    "0":"Станьте членом ",
+    "0_1":" нашей команды!",
+    "1": "Виды сотрудничества",
+    "2": "Мы поможем вам!",
+    "3": "Оставить заявление",
+    "4": "Не забудьте заполнить данные, чтобы оператор мог связаться с вами!",
+    "5": "Lorem ipsum dolor sit amet consectetur. Luctus vulputate in purus et dictum. Justo ullamcorper laoreet suspendisse nisl vitae praesent interdum. Dui semper velit in dolor volutpat. Id in amet aenean vestibulum aenean scelerisque. Scelerisque iaculis pretium amet netus nulla metus. Magna imperdiet feugiat pretium aliquam velit tincidunt nulla nisl. Semper pellentesque urna ut sit porttitor purus. Fusce viverra ornare ullamcorper ornare in aliquam sed quis diam. Mauris risus scelerisque pretium arcu vulputate amet.",
+    "6": "Тип партнерства",
+    "7": "Имя и Фамилия",
+    "8": "Адрес",
+    "9": "Телефон номер",
+    "10": " Отправить",
+    "11":"Звонить"
+  },
+  "recom": {
+    "1": "Эффективное лечение болей в спине",
+    "2": "Lorem ipsum dolor sit amet consectetur. Sed molestie eu suspendisse odio pulvinar quam aliquet ullamcorper. Diam adipiscing nulla venenatis sit pharetra egestas pellentesque. Pellentesque eget cursus mollis tempor natoque ultricies mattis venenatis fusce. Sed nulla a ut habitasse gravida. Orci quisque tortor enim posuere mi sem. Duis volutpat malesuada aliquam eget dictum id amet non. Congue bibendum nunc pharetra sed volutpat consequat fames. Ornare ante et mi sagittis ut adipiscing consequat ut facilisis. Tortor nisi nibh lobortis purus sociis sem massa. Ac aliquam suspendisse congue sagittis eget tincidunt in. Lectus bibendum scelerisque lectus fusce nec accumsan elit ultrices. Bibendum eget neque enim ac tempus. Vitae imperdiet justo neque risus sagittis. Vulputate ut purus duis convallis sit eget nisl proin. Quam laoreet enim morbi adipiscing ante cursus pulvinar. Scelerisque nisi tristique nisi mauris mi felis massa. Elementum tempor aliquam sodales egestas magnis ornare. Egestas eget sodales mauris elementum est sociis. Lorem velit quam purus semper elit turpis purus sem. Lorem elementum mauris arcu placerat nunc ut. Urna quam urna sociis lacus donec auctor augue. Accumsan cursus ut ultricies non sed malesuada. Sem arcu varius suspendisse sed. Ut vel et mi auctor scelerisque lobortis in nibh urna. Tortor dictumst elit hendrerit vel pharetra scelerisque varius mattis. Arcu libero at non hac. Ultricies integer gravida nunc erat laoreet eget nisl massa neque. Dignissim est aenean metus nec. Vel justo a sit vitae erat phasellus morbi in arcu.",
+    "3": "Методы правильного использования продукта"
+  },
+  "recommendation": {
+    "1": "Тип",
+    "2": "Срок годности",
+    "3": "Рейтинг",
+    "4": "Состав",
+    "5": "Метод использования",
+    "6": "Рекомендует!",
+    "7": "Похожие препараты",
+    "8": "Цена:",
+    "9": "сум",
+    "10": "Купить"
+  },
+  "sum": "Самый популярный товар месяца",
+  "success": "Отправил",
+  "error": "Ошибка"
+}

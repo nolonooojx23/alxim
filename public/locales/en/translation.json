@@ -1,0 +1,159 @@
+{
+  "navbar": {
+    "map": "Our Address",
+    "query": "Send questions!",
+    "call": "Contact us!:",
+    "inp": "Search here..."
+  },
+  "nav_text": {
+    "1": "Basic",
+    "2": "About Us",
+    "3": "Products",
+    "4": "News",
+    "5": "Career",
+    "6": "Partnership",
+    "7": "Recommendations",
+    "8": "Works"
+  },
+  "dropDown":{
+    "1": "Team",
+    "2": "Partners",
+    "3": "Rizon"
+  },
+  "dropDownNews":{
+    "1": "Since contents",
+    "2": "Useful contents"
+  },
+  "partners_nav":{
+    "1": "Values",
+    "2": "Submit an application"
+  },
+  "btn": "Details",
+  "home": {
+    "1": "Products",
+    "2": "Shipping is free for purchases over 100,000 uzs!",
+    "3": "News",
+    "4": "Pharmaceutical News",
+    "5": "“ALKIMYOGAR FARM” is the first and most successful company in the region that produces a wide range of colloidal minerals, as well as plant hydrolates for consumption with the effective use of nanotechnology based on partnership with Malaysian and Canadian companies. Thanks to the modern equipment and technologies available in our company, together with qualified specialists, it has the opportunity to produce high-quality products.",
+    "6": "Products",
+    "7": "Popular",
+    "8": "Rated high",
+    "btn": "All",
+    "9": "New Contents",
+    "10": "Customer opinion",
+    "11": "Partners",
+    "11_1":"Scientific partnership",
+    "11_2":"Who chose us",
+    "12": "Recommendations"
+  },
+  "footer": {
+    "1": "Basic",
+    "2": "About Us",
+    "3": "Products",
+    "4": "Purchase",
+    "5": "Recommendations",
+    "6": "Career",
+    "7": "Map",
+    "8": "Privacy Policy",
+    "9": "Help",
+    "10": "Most frequently questions",
+    "11": "Terms of Use",
+    "12": "Purchase",
+    "13": "Recommendations",
+    "14": "Career",
+    "15": "Social networks",
+    "16": "Contact Center",
+    "17": "All rights reserved!"
+  },
+  "about": {
+    "1": "We share health with people!",
+    "2": "It is the first and most successful company in the region that produces a wide range of colloidal minerals and plant hydrolates for consumption based on cooperation with Malaysian and Canadian companies, using nano technology effectively. With the help of modern equipment and technologies available in our company, together with qualified specialists, it is possible to produce high-quality products.",
+    "d": "considers the benefit of customers",
+    "4": "Alkimyogar Farm Company is engaged in the production of high-quality colloidal minerals and medicinal extracts made from medicinal plants based on Canadian nanotechnology. The extracts are hydrolatted, and it is the first company in the CIS countries to release them for consumption! The company was founded in 2019, and in this short time it has more than 20 product ranges and more than 5000 satisfied customers. The company aims to contribute to the health of the nation by producing quality, natural and affordable products. set a goal.",
+    "5": "Foreign and domestic scientific-",
+    "6": "cooperation with research centers!",
+    "7": "Constantly Satisfied",
+    "8": "consumers!",
+    "9": "assortment of health products",
+    "10": "Partners",
+    "11": "Our relations with Canada",
+    "12": "lkimyogar Farm Company produces high-quality colloidal minerals and medicinal plant extracts based on Canadian nanotechnology. Extracts are hydrolatted, and it is the first company in the CIS countries to release them for consumption! The company was founded in 2019, and in this short time it has more than 20 product ranges and more than 5000 satisfied customers. The company aims to contribute to the health of the nation by producing quality, natural and affordable products. set a goal.",
+    "13": "Meet our team!"
+  },
+  "product": {
+    "1": "Immunity",
+    "2": "Men",
+    "3": "Women",
+    "4": "Children",
+    "5": "Elderly",
+    "6": "Films from the production of the product"
+  },
+  "new": {
+    "1": "Achievements",
+    "2": "News",
+    "3": "Follow us on social networks!"
+  },
+  "carer": {
+    "1": "Become a member of the Alchemist team! ",
+    "2": "Submit an application",
+    "3": "Our values!",
+    "4": "Working with professionals!",
+    "5": "Lorem ipsum dolor sit amet consectetur. In posuere morbi enim lectus nulla amet. Vitae urna egestas porttitor ullamcorper neque nunc rhoncus potenti vulputate. Penatibus interdum condimentum pellentesque amet arcu lobortis. Amet nisl arcu malesuada lacus tempus tellus nam nunc at. Posuere feugiat pellentesque viverra pulvinar lectus. Egestas ante tellus quis elit sed. Proin risus mi bibendum imperdiet nisl sodales ultrices. Ullamcorper diam vel nisl feugiat pretium quis mattis dolor ac.",
+    "6": "Leave us an application!",
+    "7": "Vacancies",
+    "8": "First and last name",
+    "9": "Address",
+    "10": "Date of birth",
+    "11": "Phone number",
+    "12": "Information",
+    "13": "Salary",
+    "14": "Photo",
+    "15": "Send",
+    "16": " Amount"
+  },
+  "tanlov":{
+    "1":"Our mission",
+    "2":"ALKIMYOGAR FARM company has been producing products to strengthen a healthy lifestyle since the first day of its establishment. Our mission is to create products that help people live healthy lives and share health.",
+    "3":"Quality is above all else",
+    "4":"We are manufacturers of high-quality products that fully comply with world standards. We have a well-educated, highly qualified team, modern, well-equipped buildings and conditions that meet all the requirements of the regulations and legislation of the Republic of Uzbekistan. we will take Each product has undergone extensive and practical testing. Starting from the packaging of the product, every element is created with originality and quality superiority.",
+    "5":"Modernity",
+    "6":"Modern technical capabilities of our nanotechnology, hydrolatation method laboratory allow production of products that meet all international standards. The professionalism of our highly qualified employees is a guarantee of the quality of manufactured medical products.",
+    "7":"Reliability",
+    "8":"It is one of the main principles established in the philosophy of our company. We highly respect the trust of our clients, value their time, do not set unattainable goals and maintain our reputation at a high level. That's why working with us is always reliable."
+  },
+  "partner": {
+    "0":"Become a member  ",
+    "0_1":" of our team!",
+    "1": "Types of cooperation",
+    "2": "We help you we 'll give it!",
+    "3": "Submit an application",
+    "4": "Do not forget to enter the data completely so that the operator can contact you!",
+    "5": "Lorem ipsum dolor sit amet consectetur. Luctus vulputate in purus et dictum. Justo ullamcorper laoreet suspendisse nisl vitae praesent interdum. Dui semper velit in dolor volutpat. Id in amet aenean vestibulum aenean scelerisque. Scelerisque iaculis pretium amet netus nulla metus Magna imperdiet feugiat pretium aliquam velit tincidunt nulla nisl. Semper pellentesque urna ut sit porttitor purus. Fusce viverra ornare ullamcorper ornare in aliquam sed quis diam. Mauris risus scelerisque pretium arcu vulputate amet.",
+    "6": "Type of cooperation",
+    "7": "First and last name",
+    "8": "Address",
+    "9": "Phone number",
+    "10": "Send",
+    "11":"To call"
+  },
+  "recomm": {
+    "1": "Effective treatment of back pain",
+    "2": "Lorem ipsum dolor sit amet consectetur. Sed molestie eu suspendisse odio pulvinar quam aliquet ullamcorper. Diam adipiscing nulla venenatis sit pharetra egestas pellentesque. Pellentesque eget cursus mollis tempor natoque ultricies mattis venenatis fusce. Sed nulla a ut habitasse gravida. Orci quisque tortor enim posuere mi sem. Duis volutpat malesuada aliquam eget dictum id amet non. Congue bibendum nunc pharetra sed volutpat consequat fames. Ornare ante et mi sagittis ut adipiscing consequat ut facilisis. Tortor nisi nibh lobortis purus sociis sem massa. Ac aliquam suspendisse congue sagittis eget tincidunt in. Lectus bibendum scelerisque lectus fusce nec accumsan elit ultrices. Bibendum eget neque enim ac tempus. Vitae imperdiet justo neque risus sagittis. Vulputate ut purus duis convallis sit eget nisl proin. Quam laoreet enim morbi adipiscing ante cursus pulvinar. Scelerisque nisi tristique nisi mauris mi felis massa Elementum tempor aliquam sodales egestas magnis ornare Egestas eget sodales mauris elementum est sociis. Lorem velit quam purus semper elit turpis purus sem. Lorem elementum mauris arcu placerat nunc ut. Urna quam urna sociis lacus donec auctor augue. Accumsan cursus ut ultricies non sed malesuada. Sam arcu varius suspendisse sed. Ut vel et mi auctor scelerisque lobortis in nibh urna. Tortor dictumst elit hendrerit vel pharetra scelerisque varius mattis. Arcu libero at non hac. Ultricies integer gravida nunc erat laoreet eget nisl massa neque. Dignissim est aenean metus nec. Vel justo a sit vitae erat phasellus morbi in arcu.",
+    "3": "Methods of correct use of the product"
+  },
+  "recommendation": {
+    "1": "Type",
+    "2": "Expiry Date",
+    "3": "Rating",
+    "4": "Content",
+    "5": "Usage Style",
+    "6": "Recommend!",
+    "7": "Similar drugs",
+    "8": "Price:",
+    "9": "sum",
+    "10": "Sale"
+  },
+  "sum": "Most popular product of the month",
+  "success": "Success",
+  "error": "Error"
+}

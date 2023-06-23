@@ -1,0 +1,160 @@
+{
+  "navbar": {
+    "map": "Manzilimiz",
+    "query": "Savollar yo’llang!",
+    "call": "Biz bilan bog’laning!:",
+    "inp": "Bu yerdan Qidiring..."
+  },
+  "nav_text": {
+    "1": "Asosiy",
+    "2": "Biz haqimizda",
+    "3": "Mahsulotlar",
+    "4": "Yangiliklar",
+    "5": "Karyera",
+    "6": "Hamkorlik",
+    "7": "Tavsiyalar",
+    "8": "Qilingan ishlar"
+  },
+  "dropDown":{
+    "1": "Jamoa",
+    "2": "Hamkorlar",
+    "3": "Rizon"
+  },
+  "dropDownNews":{
+    "1": "Ilmiy kontentlar",
+    "2": "Foydali kontentlar"
+  },
+  "partners_nav":{
+    "1": "Qadriyatlar",
+    "2": "Ariza qoldirish"
+  },
+  "btn": "Batafsil",
+  "home": {
+    "1": "Mahsulotlar",
+    "2": "100 000uzs dan yuqori bo’lgan haridlar uchun yetkazib berish bepul!",
+    "3": "Yangiliklar",
+    "4": "Farmaseftika yangiliklari",
+    "5": "ALKIMYOGAR FARM – Malayziya va Kanada kompaniyalari bilan hamkorlik asosida, nano texnologiyadan samarali foydalangan holda, keng turdagi kolloidli minerallar hamda o’simlik gidrolatlarini iste’mol uchun ishlab chiqaruvchi mintaqadagi eng birinchi va muvaffaqiyatli kompaniya. Kompaniyamizda mavjud zamonaviy uskuna va texnologiyalar yordamida, malakali mutaxassislar bilan birgalikda, yuqori sifatli mahsulotlar ishlab chiqarish imkoniyatiga ega.",
+    "6": "Mahsulotlar",
+    "7": "Ommabop",
+    "8": "Reytingi yuqori",
+    "btn": "Barchasi",
+    "9": "Yangi tarkiblar",
+    "10": "Mijozlar fikri",
+    "11": "Hamkorlar",
+    "11_1":"Ilmiy hamkorlar",
+    "11_2":"Kimlar bizni tanlagan",
+    "12": "Tavsiyalar"
+  },
+  "footer": {
+    "1": "Asosiy",
+    "2": "Biz haqimizda",
+    "3": "Mahsulotlar",
+    "4": "Sotib olish",
+    "5": "Tavsiyalar",
+    "6": "Kareyra",
+    "7": "Xarita",
+    "8": "Maxfiylik siyosati",
+    "9": "Yordam",
+    "10": "Eng ko’p so’ralgan savollar",
+    "11": "Foydalanish shartlari",
+    "12": "Sotib olish",
+    "13": "Tavsiyalar",
+    "14": "Kareyra",
+    "15": "Ijtimoiy tarmoqlar",
+    "16": "Aloqa markazi",
+    "17": "Barcha huquqlar himoyalangan!"
+  },
+  "about": {
+    "1": "Biz insonlarga salomatlik ulashamiz!",
+    "2": "Malayziya va Kanada kompaniyalari bilan hamkorlik asosida, nano texnologiyadan samarali foydalangan holda, keng turdagi kolloidli minerallar hamda o’simlik gidrolatlarini iste’mol uchun ishlab chiqaruvchi mintaqadagi eng birinchi va muvaffaqiyatli kompaniya. Kompaniyamizda mavjud zamonaviy uskuna va texnologiyalar yordamida, malakali mutaxassislar bilan birgalikda, yuqori sifatli mahsulotlar ishlab chiqarish imkoniyatiga ega.",
+    "3": "Alkimyogar ",
+    "d": "mijozlar foydasini o'ylaydi",
+    "4": "Alkimyogar Farm Kompaniyasi Kanada nanotexnologiyalari asosida yuqori sifatli kolloid minerallar hamda dorivor o’simliklardan tayyorlangan shifobaxsh ekstraktlar ishlab chiqarish bilan shug’ullanadi. Ekstraktlar gidrolat usulida bo’lib, MDX davlatlari ichida ularni iste’mol uchun chiqargan ilk kompaniya hisoblanadi! Korxona 2019-yilda tashkil topgan bo’lib, mana shu qisqa vaqt mobaynida 20 dan ortiq mahsulot assortimenti hamdan 5000 dan ortiq o’zining mamnun mijozlariga ega. Kompaniya sifatli, tabiiy hamda hamyonbob mahsulotlar ishlab chiqarish asosida millatning salomatligiga hissa qo’shishni o’z oldiga maqsad qilib qo’ygan.",
+    "5": "Xorijiy va mahalliy ilmiy-",
+    "6": "tadqiqot markazlari bilan hamkorlik!",
+    "7": "Doimiy mamnun",
+    "8": "iste'molchilar!",
+    "9": "Shifobaxsh mahsulotlar assortimenti",
+    "10": "Hamkorlar",
+    "11": "Kanada bilan aloqalarimiz",
+    "12": "Alkimyogar Farm Kompaniyasi Kanada nanotexnologiyalari asosida yuqori sifatli kolloid minerallar hamda dorivor o’simliklardan tayyorlangan shifobaxsh ekstraktlar ishlab chiqarish bilan shug’ullanadi. Ekstraktlar gidrolat usulida bo’lib, MDX davlatlari ichida ularni iste’mol uchun chiqargan ilk kompaniya hisoblanadi! Korxona 2019-yilda tashkil topgan bo’lib, mana shu qisqa vaqt mobaynida 20 dan ortiq mahsulot assortimenti hamdan 5000 dan ortiq o’zining mamnun mijozlariga ega. Kompaniya sifatli, tabiiy hamda hamyonbob mahsulotlar ishlab chiqarish asosida millatning salomatligiga hissa qo’shishni o’z oldiga maqsad qilib qo’ygan.",
+    "13": "Jamoamiz bilan tanishing!"
+  },
+  "product": {
+    "1": "Imunitet",
+    "2": "Erkaklar",
+    "3": "Ayollar",
+    "4": "Bolalar",
+    "5": "Keksalar",
+    "6": "Mahsulot tayyorlanishidan lavhalar"
+  },
+  "new": {
+    "1": "Yutuqlar",
+    "2": "Yangiliklar",
+    "3": "Bizni ijtimoiy tarmoqlarda kuzatib boring!"
+  },
+  "carer": {
+    "1": "Alkimyogar jamoasi a'zosiga aylaning! ",
+    "2": "Ariza qoldirish",
+    "3": "Alkimyogar Pharm kompaniyasi respublika bo'ylab hududiy menejerlarni ishga taklif etadi!",
+    "4": "Professionallar bilan ishlash!",
+    "5": "Alkimyogar Pharm o’z mahsulotlarini butun hududlarda keng ommaga tanitish, iste’molchilar oqimini oshirish va aholining sog’lom turmush tarziga amal qilishiga o’z hissasini qo’shish maqsadida Respublikamiz va mintaqa davlatlarining barcha hududlariga tibbiy vakillar qabul qiladi. ",
+    "6":"Bizga ariza qoldiring!",
+    "7": "Vakansiyalar",
+    "8": "Ism va familiya",
+    "9": "Manzil",
+    "10": "Tug’ilgan sana",
+    "11": "Telefon raqam",
+    "12": "Ma’lumot",
+    "13": "Maosh",
+    "14": "Foto",
+    "15": "Yuborish",
+    "16": " Miqdori"
+  },
+  "tanlov":{
+    "1":"Missiyamiz",
+    "2":"ALKIMYOGAR FARM kompaniyasi tashkil qilingan birinchi kunidan boshlab, sog‘lom turmush tarzini kuchaytirish uchun mahsulotlar ishlab chiqaradi. Bizning vazifamiz odamlarga sog‘lom hayot kechirishga yordam beradigan mahsulotlar yaratish va salomatlik ulashishdir.",
+    "3":"Sifat hamma narsadan ustun",
+    "4":"Biz jahon standartlariga to‘la mos keluvchi yuqori sifatli mahsulotlarni ishlab chiqaruvchilarmiz. Bizning tarkibimizda kuchli bilimga ega, yuqori malakali jamoa, zamonaviy, yaxshi jihozlangan binolar va O‘zbekiston respublikasi qoidalari va qonunchiligining barcha talablariga javob beradigan sharoitlar mavjud.Biz jahon texnologik va ishlab chiqarish amaliyotlarini faol kuzatamiz va mahsulot ishlab chiqarishda yana-da mukammallashish ustida doimo ish olib boramiz. Har bir mahsulot chuqur va amaliy sinovlardan o‘tgan. Mahsulot qadog‘idan boshlab har bir unsur o‘ziga xoslik va sifat ustunligi bilan yaratilgan.",
+    "5":"Zamonaviylik",
+    "6":"Nanotexnologiya, gidrolatlash usuli laboratoriyamizning zamonaviy texnik imkoniyatlari barcha xalqaro standartlarga javob beradigan mahsulotlar ishlab chiqarish imkonini bermoqda. Yuqori malakali xodimlarimiz professionalligi ishlab chiqarilayotgan tibbiy mahsulotlar sifatining kafolatidir.",
+    "7":"Ishonchlilik",
+    "8":"Kompaniyamizning falsafasida mustahkamlangan asosiy tamoyillardan biri. Biz mijozlarimiz ishonchini juda hurmat qilamiz, vaqtini qadrlaymiz, erishib bo‘lmaydigan maqsadlarni qo‘ymaymiz va o‘z obro‘imizni yuksak darajada saqlaymiz. Shuning uchun biz bilan ishlash har doim ishonchli."
+  },
+  "partner": {
+    "0":"Jamoamiz  ",
+    "0_1":" a'zosiga aylaning!",
+    "1": "Hamkorlik turlari",
+    "2": "Biz sizga yordam beramiz!",
+    "3": "Ariza qoldirish",
+    "4": "Operator sizga aloqaga chiqishi uchun ma’lumotlarni to’liq kiritishni unutmang!",
+    "5": "ALKIMYOGAR FARM kompaniyasi tashkil qilingan birinchi kunidan boshlab, sog‘lom turmush tarzini kuchaytirish uchun mahsulotlar ishlab chiqaradi. Bizning vazifamiz odamlarga sog‘lom hayot kechirishga yordam beradigan mahsulotlar yaratish va salomatlik ulashishdir.",
+    "6": "Hamkorlik turi",
+    "7": "Ism va familiya",
+    "8": "Manzil",
+    "9": "Telefon raqam",
+    "10": " Yuborish",
+    "11":"Qo'ngiroq qilish"
+  },
+  "recom": {
+    "1": "Bel og’rig’ini samarali davolash",
+    "2": "Lorem ipsum dolor sit amet consectetur. Sed molestie eu suspendisse odio pulvinar quam aliquet ullamcorper. Diam adipiscing nulla venenatis sit pharetra egestas pellentesque. Pellentesque eget cursus mollis tempor natoque ultricies mattis venenatis fusce. Sed nulla a ut habitasse gravida. Orci quisque tortor enim posuere mi sem. Duis volutpat malesuada aliquam eget dictum id amet non. Congue bibendum nunc pharetra sed volutpat consequat fames. Ornare ante et mi sagittis ut adipiscing consequat ut facilisis. Tortor nisi nibh lobortis purus sociis sem massa. Ac aliquam suspendisse congue sagittis eget tincidunt in. Lectus bibendum scelerisque lectus fusce nec accumsan elit ultrices. Bibendum eget neque enim ac tempus. Vitae imperdiet justo neque risus sagittis. Vulputate ut purus duis convallis sit eget nisl proin. Quam laoreet enim morbi adipiscing ante cursus pulvinar. Scelerisque nisi tristique nisi mauris mi felis massa. Elementum tempor aliquam sodales egestas magnis ornare. Egestas eget sodales mauris elementum est sociis. Lorem velit quam purus semper elit turpis purus sem. Lorem elementum mauris arcu placerat nunc ut. Urna quam urna sociis lacus donec auctor augue. Accumsan cursus ut ultricies non sed malesuada. Sem arcu varius suspendisse sed. Ut vel et mi auctor scelerisque lobortis in nibh urna. Tortor dictumst elit hendrerit vel pharetra scelerisque varius mattis. Arcu libero at non hac. Ultricies integer gravida nunc erat laoreet eget nisl massa neque. Dignissim est aenean metus nec. Vel justo a sit vitae erat phasellus morbi in arcu.",
+    "3": "Mahsulotdan to’gri foydalanish usullari"
+  },
+  "recommendation": {
+    "1": "Turi",
+    "2": "Yaroqlilik muddati",
+    "3": "Reyting",
+    "4": "Tarkibi",
+    "5": "Foydalanish uslubi",
+    "6": "Tavsiya qiladi!",
+    "7": "O’xshash dorilar",
+    "8": "Narxi:",
+    "9": "sum",
+    "10": "Sotib olish"
+  },
+  "sum": "Oyning eng ommabop mahsuloti",
+  "success": "Yuborildi",
+  "error": "Xatolik"
+}
