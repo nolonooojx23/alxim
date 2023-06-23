@@ -1,0 +1,399 @@
+.about_page {
+  background-color: rgb(241, 241, 241);
+}
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about_hero {
+  background-color: red;
+  height: 1019px;
+  background: url("/assets/imgs/1.png"), right, no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 60px;
+}
+hr {
+  position: relative;
+  width: 1344px;
+  height: 1px;
+  left: 50%;
+  border-width: 0.8px;
+  transform: translate(-50%, -50%);
+  background: #002940;
+}
+.about__ten {
+  position: absolute;
+  width: 100%;
+  height: 43%;
+  bottom: -1px;
+  background: linear-gradient(0deg, #f1f1f1 0%, rgba(217, 217, 217, 0) 16.06%);
+  overflow: hidden;
+}
+.about_hero .container div img {
+  height: 166.70010375976562px;
+  width: 338.7776184082031px;
+  margin: 63px 0;
+}
+.about_hero .container div {
+  width: 40%;
+  color: #002940;
+}
+.about_hero .container div .txt_h1 {
+  font-size: 77px;
+  margin-bottom: 37px;
+}
+
+.about_hero .container div .p {
+  line-height: 1.8;
+  font-size: 17px;
+}
+.purpose {
+  align-items: start;
+  padding: 120px 0;
+  color: #002940;
+}
+.purpose h2 {
+  font-size: 48px;
+  margin: 0 30px;
+}
+.purpose .purpose_info {
+  width: 50%;
+  font-size: 21px;
+  line-height: 1.5;
+}
+.count {
+  padding: 120px;
+  color: #002940;
+  margin: auto;
+  text-align: center;
+}
+.count div {
+  width: 30%;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+}
+.count div h3 {
+  font-size: 15px;
+  font-weight: 700;
+}
+.count div:nth-child(3) {
+  margin-left: 40px;
+}
+
+.count div h1 span {
+  font-size: 100px;
+  color: #002940;
+}
+.count div h1 .plas {
+  color: #f2ce9a;
+}
+.about_partners {
+  padding: 60px 50px;
+}
+.about_partners h1 {
+  color: #002940;
+}
+.about_partners .partners {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.connect {
+  padding: 60px 50px;
+}
+.connect h1 {
+  font-size: 38.4px;
+  margin-bottom: 39px;
+}
+.connect p {
+  color: #002940d9;
+  font-size: 20px;
+  line-height: 38.4px;
+}
+.connect .connecct_picture {
+  display: flex;
+  justify-content: center;
+  margin: 55px 0;
+}
+.connect .connecct_picture img {
+  height: 502px;
+  width: 923px;
+}
+.team_container {
+  padding: 60px 0px;
+}
+.about_txt {
+  display: none;
+}
+.about13 {
+  font-size: 48px;
+  margin-left: 2%;
+  color: #002940;
+}
+.media_ {
+  display: none;
+}
+.desktop_ {
+  display: block;
+  /* margin-left: -21%; */
+}
+.desktop .swiper .swiper-wrapper {
+  left: -748px !important;
+}
+
+@media (max-width: 1200px) {
+  .about_hero .container div .txt_h1 {
+    font-size: 59px;
+  }
+  .about_hero {
+    background: url(/assets/imgs/1.png), no-repeat;
+    background-size: cover;
+    background-position: -223px;
+  }
+}
+@media (max-width: 990px) {
+  .about_hero {
+    background-position: -287px;
+  }
+  .count div h1 span {
+    font-size: 64px;
+  }
+  .d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 46px;
+  }
+  .partner__info {
+    margin-right: 0;
+  }
+  .partner__info .info__p {
+    font-size: 17px;
+  }
+  .partneres p {
+    line-height: 2;
+  }
+  .partner__form {
+    width: 100%;
+    align-items: center;
+  }
+  .partner__form div {
+    margin: 10px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+}
+
+@media (max-width: 900px) {
+  .about_hero .container div {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .about_hero {
+    background-position: center;
+  }
+  .about_hero .container div h1 {
+    font-size: 3rem;
+  }
+  .about_hero .container div {
+    width: 100%;
+  }
+  .about_partners .partner {
+    margin: 10px auto;
+    width: auto;
+  }
+  .about_partners .partner img {
+    width: 100%;
+  }
+  .partners {
+    display: flex;
+  }
+  .partner .partner_img {
+    width: 100px;
+  }
+  .purpose {
+    flex-direction: column;
+  }
+  .purpose .purpose_info {
+    width: 100%;
+  }
+  .count div {
+    width: 100%;
+  }
+  .count div h3 {
+    margin: 25px 0;
+  }
+  .count {
+    padding: 0;
+    margin: 0 0 0 1rem;
+  }
+  .count.d-flex {
+    padding: 30px 0;
+    flex-direction: column;
+  }
+  .connecct_picture img {
+    width: 100%;
+  }
+  .dots .d-flex {
+    padding: 0 0.5rem;
+  }
+  .dots .d-flex {
+    margin-top: 1rem;
+    flex-direction: column;
+  }
+  .dots {
+    margin-bottom: 1rem;
+  }
+  .d-flex img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .desktop_ {
+    display: none !important;
+  }
+  .media_ {
+    display: block;
+  }
+  .swiper__partners img{
+    padding: 20px;
+  }
+  .about_desk_txt {
+    display: none;
+  }
+  .about_hero {
+    height: 400px;
+    margin: 20px 0;
+    text-align: left;
+    background-position: right;
+  }
+  .about_txt {
+    display: block;
+    width: 90%;
+    margin: 0 auto 30px;
+    line-height: 1.2;
+    font-size: 14px;
+    font-family: sans-serif;
+  }
+  .about13 {
+    font-size: 42px;
+  }
+  .about_hero .container div img {
+    display: none;
+  }
+  .about_hero .container div .txt_h1 {
+    font-size: 2rem;
+    margin: 10px 0 0;
+    padding-left: 6%;
+    padding-top: 17px;
+  }
+  .about_hero .container div {
+    width: 100%;
+  }
+  .about_hero .container div .p {
+    width: 100%;
+    line-height: 1.2;
+    font-size: 14px;
+  }
+  .about_partners .partner {
+    margin: 7px auto;
+    width: 19%;
+  }
+  .about_partners .partner img {
+    width: 100%;
+  }
+  .purpose {
+    margin: 50px 0;
+  }
+  .purpose h2 {
+    font-size: 19px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .purpose .purpose_info {
+    line-height: 1.5;
+    text-align: center;
+    font-size: 12px;
+    padding: 0 29px;
+  }
+  .count div {
+    width: 100%;
+    text-align: center;
+  }
+  .count div:nth-child(3) {
+    margin-left: 0;
+  }
+  .count div h1 span {
+    font-size: 40px;
+    text-align: left;
+  }
+  .count {
+    padding: 0;
+    margin: 0 0 0 1rem;
+  }
+  .count div h3 {
+    margin-bottom: 14px;
+  }
+  .count.d-flex {
+    padding: 50px 1rem;
+  }
+  .connect .connecct_picture img {
+    height: auto;
+    width: 110%;
+  }
+  .dots .d-flex {
+    padding: 0 0.5rem;
+  }
+  .dots .d-flex {
+    margin-top: 1rem;
+  }
+  .dots {
+    margin-bottom: 1rem;
+  }
+  .about_partners {
+    margin: 30px 0;
+  }
+  .about_partners h1 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .about_partners .partners {
+    margin-top: 0px;
+  }
+  .connect {
+    text-align: center;
+    padding: 20px 5px;
+    width: 90vw;
+    margin: 20px auto;
+  }
+  .connect h1 {
+    font-size: 19.4px;
+    margin: 34px auto 23px;
+  }
+  .connect p {
+    color: #002940d9;
+    font-size: 14px;
+    line-height: 28.4px;
+  }
+  .team_container {
+    padding: 0px 0px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  .team_container h1 {
+    font-size: 25px;
+    margin: 43px 0 0;
+  }
+}
