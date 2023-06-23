@@ -1,0 +1,117 @@
+.catalogs {
+  width: max-content;
+  margin: 86px auto 100px;
+  margin-bottom: 110px;
+  text-align: center;
+  padding: 0px 50px;
+  font-family: "Montserrat", sans-serif;
+  /* color: #fff; */
+  color: black;
+}
+.ccc {
+  margin: 40px 0;
+}
+.ccc h1 {
+  color: #002940;
+}
+.slider-single.preactive .carousel_title,
+.slider-single.slider-single.proactive .carousel_title {
+  display: none !important;
+  opacity: 0;
+}
+.catalog h1 {
+  margin: 200px 0;
+}
+.catalog h2 {
+  font-size: 32px;
+  margin: 61px 0;
+}
+.react-3d-carousel .slider-container .slider-content {
+  margin: 0 auto !important;
+}
+.react-3d-carousel .slider-container .slider-content .slider-single .slider-single-content {
+  border-radius: 11px !important;
+}
+.custom_slide {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  padding: 0 0 10px 0;
+  background-color: #002940;
+}
+.carousel_title {
+  opacity: 0;
+}
+.carousel_title h1 {
+  margin: 1rem 0;
+}
+
+.carousel_title p {
+  width: 80%;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.catalog p {
+  font-size: 24px;
+  text-align: center;
+  width: 80vw;
+  /* margin: 0 auto; */
+  line-height: 45.09px;
+}
+.Carousel {
+  position: relative;
+  margin: 100px 0;
+  margin-top: 50px;
+}
+/* @media (min-width: 0) and (max-width: 990px) {
+  .carousel_title {
+    bottom: -253px;
+  }
+}
+@media (min-width: 0) and (max-width: 768px) {
+  .carousel_title {
+    bottom: -333px;
+  }
+}
+@media (min-width: 0) and (max-width: 600px) {
+  .carousel_title {
+    opacity: 0;
+  }
+} */
+@media (min-width: 0) and (max-width: 480px) {
+  .catalogs {
+    padding: 0;
+    width: 100vw;
+    margin: 0 auto;
+  }
+  .ccc {
+    margin: 20px 0;
+  }
+  .catalog .container {
+    padding: 0 1rem;
+  }
+  .catalog_h1 {
+    margin: 30px 0;
+    font-size: 18px;
+  }
+  .catalog h2 {
+    font-size: 32px;
+    margin: 31px 0;
+  }
+  .Carousel {
+    margin: 30px 0;
+  }
+  .carousel_title h1 {
+    font-size: 18px;
+  }
+  .carousel_title p {
+    font-size: 0.5rem;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .carousel_title h1 {
+    font-size: 24px;
+  }
+}

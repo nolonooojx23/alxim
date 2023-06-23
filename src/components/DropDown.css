@@ -1,0 +1,51 @@
+.border-none {
+  border: none;
+}
+.dropped {
+  border: 1px solid white;
+  border-radius: 50%;
+  font-size: 18px;
+}
+.hover_me:hover .dropTrue {
+  width: auto !important;
+  height: auto !important;
+  display: flex;
+  padding: 10px;
+  opacity: 1 !important;
+  /* height: 200px; */
+  min-height: 100px;
+  z-index: 99999;
+  margin-bottom: 20px;
+}
+
+.dropFalse {
+  /* height: 0; */
+  /* display: none; */
+}
+
+.dropTrue {
+  opacity: 0;
+  display: none;
+  /* height: 0;
+    transition: all .4s ease;
+  /* display: flex;
+  height: auto;
+  padding: 10px;
+  color: transparent; */
+}
+.route {
+  transition: all 0.4s ease;
+  text-align: center;
+  font-size: 14px !important;
+}
+.route:hover {
+  background-color: #317db3;
+  color: white !important;
+}
+.logo__image_bottomNav {
+  margin: 10px auto;
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,49 @@
+.tavsiya_content {
+    display: flex;
+    padding: 4rem 0;
+    justify-content: space-between;   
+}
+
+.tavsiya_title {
+    width: 40%;
+}
+
+.tavsiya_title p {
+    margin-top: 3rem;
+}
+
+.tavsiya_image {
+    width: 50%;
+}
+
+.tavsiya_image img {
+    width: 100%;
+}
+
+@media (max-width: 480px) {
+    .tavsiya_content {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .tavsiya_title {
+        width: 80%;
+    }
+    .tavsiya_image {
+        width: 90%;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+    .tavsiya_content {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .tavsiya_title {
+        width: 100%;
+    }
+    .tavsiya_image {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+}

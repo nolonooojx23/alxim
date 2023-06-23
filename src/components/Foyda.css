@@ -1,0 +1,32 @@
+.foyda_content {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+}
+
+.foyda_title {
+    width: 40%;
+}
+
+.foyda_img {
+    width: 40%;
+}
+
+.foyda_img img {
+    width: 100%;
+}
+
+@media (max-width: 425px) {
+    .foyda_content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .foyda_img {
+        width: 80%;
+    }
+    .foyda_title {
+        width: 100%;
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+}

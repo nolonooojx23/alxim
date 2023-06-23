@@ -1,0 +1,20 @@
+.success{
+    background-color: rgba(3, 123, 9, 0.789);
+    display: inline-block;
+    padding: 10px 30px; 
+    color: #fff;
+    font-size: 24px;
+    position: fixed;
+    top: 100px;
+    right: 50px;
+}
+.error{
+    background-color: rgba(123, 3, 3, 0.784);
+    display: inline-block;
+    padding: 10px 30px; 
+    color: #fff;
+    font-size: 24px;
+    position: fixed;
+    top: 100px;
+    right: 50px;
+}

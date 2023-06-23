@@ -1,0 +1,128 @@
+.swiper {
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding-top: 50px !important;
+  padding-bottom: 70px !important;
+
+  /* background-color: azure; */
+}
+.mySwiper.active {
+  max-height: 470px !important;
+}
+
+.swiper__slide {
+  position: relative;
+  background: none !important;
+  background-position: center !important;
+  background-size: cover !important;
+  width: 300px !important;
+  height: 350px !important;
+  user-select: none;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.swiper-slide-prev {
+  opacity: 1;
+}
+
+.swiper__slide img {
+  display: block;
+  border-radius: 20px;
+  width: 100%;
+  object-fit: contain;
+}
+.swiper-button-prev {
+  top: 50%;
+  left: 10px;
+  transition: 0.3s ease;
+  transform: translateY(-50%);
+  background-color: whitesmoke;
+}
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: #002940 !important;
+  color: #f2ce9a;
+  border: 1px solid #f2ce9a;
+  filter: drop-shadow(0 0 2em #f2ce9a);
+}
+.swiper-button-prev:hover {
+  left: 0px;
+}
+.swiper-button-next {
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  background-color: whitesmoke;
+  transition: all 0.3s ease;
+}
+.swiper-button-next:hover {
+  right: 0;
+}
+.swiper__slide:hover .swiperr__body {
+  bottom: 0;
+  height: 100%;
+}
+/* .swiper__slide:hover{ */
+  /* border: 1px solid white; */
+/* } */
+.swiperr__body {
+  position: absolute;
+  bottom: -100px;
+  display: block;
+  text-align: center;
+  background-color: #00294095;
+  transition: all .4s ease;
+  padding: 5px;
+  width: 100%;
+  height: 0;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.swiperr__body a, .swiperr__body button {
+  background: white;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: #002940;
+  font-size: 26px;
+  border: none;
+}
+.relative__swiper {
+  position: relative;
+}
+.modal__flayer.active {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 99999999;
+  opacity: 1;
+  background-color: #186089c8 !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all .4s linear;
+}
+.modal__flayer.active img{
+  width: 600px;
+  object-fit: contain;
+  height: 80%;
+  pointer-events: none !important;
+}
+.modal__flayer{
+  position: absolute;
+  opacity: 0;
+}
+.noActive{
+  opacity: 0;
+  width: 0;
+  height: 0;
+  transition: all .4s ease;
+}
+

@@ -1,0 +1,41 @@
+.custom_new_card {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.custom_content {
+  padding: 2rem 0;
+}
+
+.custom_card_img img {
+  width: 100%;
+  height: 100%;
+  object-position: center;
+  object-fit: cover;
+  border: 5px double #002940 ;
+  border-radius: 10px;
+}
+
+.custom_card_title {
+  width: 40%;
+}
+.custom_card_title h4{
+  color: #002940;
+  font-size: large;
+}
+.custom_card_title p {
+  margin: 1rem 0;
+  line-height: 27px;
+}
+
+@media (max-width: 425px) {
+  .custom_new_card {
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+  }
+  .custom_card_title {
+    width: 90%;
+  }
+}

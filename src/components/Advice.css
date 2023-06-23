@@ -1,0 +1,30 @@
+.advice_content {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem 0;
+}
+
+.advice_title {
+    width: 50%;
+}
+
+.advice_img {
+    width: 40%;
+}
+.advice_img img {
+    width: 100%;
+}
+
+@media (max-width: 425px) {
+    .advice_content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .advice_title {
+        width: 95%;
+        margin-bottom: 1rem;
+    }
+    .advice_img {
+        width: 90%;
+    }
+}

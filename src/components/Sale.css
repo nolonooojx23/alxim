@@ -1,0 +1,128 @@
+.sale {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60vw;
+  height: 50vh;
+  margin: 0 auto;
+  z-index: 99;
+  position: fixed;
+  top: 20vh;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fff;
+  padding: 50px;
+  margin: 0 auto;
+  border-radius: 5px;
+  color: #002940;
+}
+.close {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  font-size: 30px;
+  cursor: pointer;
+}
+.sale_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sale_form div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  margin: 20px;
+}
+.form_select,
+.form_input {
+  width: 100%;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  padding: 10px;
+  color: #002940;
+  border: none;
+  outline: none;
+  font-size: 22px;
+  margin-right: 60px;
+}
+.form_label {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 5px 0;
+  color: #002940;
+}
+.form_btn {
+  position: absolute;
+  bottom: 30px;
+  padding: 13px 41px;
+  font-size: 22px;
+  border: none;
+  background: #002940;
+  border-radius: 7.7825px;
+  color: #fff;
+  cursor: pointer;
+}
+.sale_bgc {
+  width: 100vw;
+  height: 100vh;
+  background-color: #0029407f;
+}
+.sales {
+  position: fixed;
+  top: 10px;
+  z-index: 888;
+  left: 0;
+}
+
+.block {
+  display: none;
+}
+
+@media (max-width: 480px) {
+  .sale {
+    width: 95vw;
+    height: 80vh;
+    top: 8vh !important;
+    padding: 10px;
+  }
+  .sale_form {
+    flex-direction: column;
+  }
+  .form_btn {
+    bottom: 10px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .sale {
+    width: 95vw;
+    height: 90vh;
+    top: 10vh;
+    padding: 10px;
+  }
+  .sale_form {
+    flex-direction: column;
+  }
+  .form_btn {
+    position: absolute;
+    bottom: 10px;
+  }
+}
+@media (min-width: 1024px) {
+  .sale {
+    width: 80%;
+    height: 60%;
+    top: 10vh;
+    padding: 10px;
+  }
+}
+@media (min-width: 1440px) {
+  .sale {
+    width: 50%;
+    height: 45%;
+    top: 10vh;
+    padding: 10px;
+  }
+}

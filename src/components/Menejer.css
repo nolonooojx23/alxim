@@ -1,0 +1,31 @@
+.menejer_content {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem 0;
+}
+
+.menejer_title {
+    width: 50%;
+}
+
+.menejer_img {
+    width: 40%;
+}
+
+.menejer_img img {
+    width: 100%;
+}
+
+@media (max-width: 425px) {
+    .menejer_content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .menejer_title {
+        margin-bottom: 1.5rem;
+        width: 90%;
+    }
+    .menejer_img {
+        width: 90%;
+    }
+}
